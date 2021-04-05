@@ -1,9 +1,13 @@
 {
     "user":
         {
-          "id": "5001",
-          "user_name": "User Name",
-          "user_pwd": "123ewQ678" 
+          
+            "user_id": "1234",
+            "user_name": "aaaa bbc",
+            "user_pws": "123ewQ678",
+            "user_bu": "rbsc",
+            "img": "https://gw.alipayobjects.com/zos/antfincdn/XAosXuNZyF/BiazfanxmamNRoxxVxka.png"
+          
         },
 
     "candidate_create":
