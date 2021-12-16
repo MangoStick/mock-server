@@ -1,18 +1,1 @@
-{
-   version = "1.0.0",
-   effectiveDate = "14/05/2021",
-   data = [
-        MrUamMenu(
-        menu = "MC_NEW",
-       data = [
-         MrUamRole(
-                         effectiveDate = "14/05/2021",
-                        expireDate = "",
-                       function = "WSMC",
-                       lv = "10,20,30",
-                          role = "iCreate_MC_MR",
-                      )
-                   ]
-               )
-           ] 
-}
+'{"version": "1.0.0", "effectiveDate": "14/05/2021", "data": [{"menu": "MC_USED", "data": [{"role": "iCreate_MC_MR", "function": "WSMC", "lv": "10,20,30", "effectiveDate": "14/05/2021", "expireDate": ""}]}]}'
